@@ -1,1 +1,1 @@
-# A_Synchronous_MA-_search_algorithm
+# A_Synchronous_MA-search_algorithm
